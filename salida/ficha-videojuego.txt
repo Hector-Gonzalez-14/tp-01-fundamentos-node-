@@ -1,0 +1,11 @@
+FICHA DE VIDEOJUEGO
+===================
+Estudiante: Estudiante invitado
+Node.js: v24.19.0
+Plataforma del sistema: win32
+
+Título: Horizonte de Titanio
+Estudio: Bruma Norte Studio
+Año: 2024
+Plataformas: PC, PlayStation 5, Xbox Series X|S
+¿Es multijugador?: Sí
